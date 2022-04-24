@@ -268,6 +268,12 @@ section#slides_parent {
     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/recipe_slides/india-delhi-akshardham.jpg);
 }
 
+.slide_8 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/delhi-surprise/rashtrapati.jpeg);
+}
+.slide_9 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/delhi-surprise/jantar.jpeg);
+}
 .slide_info {
     position: absolute;
     bottom: 51px;
@@ -318,33 +324,6 @@ section#welcome_Sec p {
     margin-bottom: 50px;
 }
 
-/*.explore-info p {
-    font-size: 20px;
-    line-height: 30px;
-}
-
-.explore-info button {
-    background-color: #00a8b4;
-    border: none;
-    padding: 15px 70px;
-    border-radius: 100px;
-    margin-top: 25px;
-    border: 2px solid #00a8b4;
-    transition: all 0.5s ease;
-}
-
-.explore-info button:hover {
-    background-color: #fff;
-}
-
-.explore-info button:hover a {
-    color: #00a8b4;
-}
-
-.explore-info button a {
-    color: #fff;
-    text-decoration: none;
-}*/
 
 #clockdiv {
     font-family: sans-serif;
